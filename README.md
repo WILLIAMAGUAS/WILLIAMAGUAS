@@ -1,4 +1,8 @@
-## Hi there 👋
+<img width="1584" height="396" alt="Banner para Linkedin Licenciado en marketing Corporativo Verde y blanco" src="https://github.com/user-attachments/assets/b437c1f3-1eee-4e90-8611-f6646174a50c" />
+
+Desarrollador de software junior con base en Python, Flask y React. Mi experiencia en análisis de procesos, datos y sistemas
+en entornos regulatorios me permite construir soluciones técnicas con enfoque en lógica, orden y mejora continua.
+
 
 <!--
 **WILLIAMAGUAS/WILLIAMAGUAS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
